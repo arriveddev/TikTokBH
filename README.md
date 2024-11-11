@@ -38,6 +38,7 @@ https://t.me/BHTikTokPlusPlus
 - Extend comment
 - Always open in Safari
 - Changing region
+- 
 - Fake verify blue mark
 - Fake Follower count
 - Fake Following count
